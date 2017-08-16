@@ -1,0 +1,10 @@
+PHP 5.5 or later is required.
+
+Run the create-tables-script-v1.sql file on the mysql.
+
+Modify web/server-rest-api/v1/config.php and web/client/js/globals/config.js
+
+Login with the admin user with the following information:
+username: admin
+password: adminadmin
+Change the password and email for the admin user
